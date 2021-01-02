@@ -29,10 +29,10 @@ router.get("/",auth,async(req,res)=>{
 router.post(
     "/",
     [
-      check("email", "Enter email address of password").isEmail(),
+      check("email", "Enter email address or password").isEmail(),
       check(
         "password",
-        "Enter email address of password"
+        "Enter email address or password"
       ).exists()
     ],
     async (req, res) => {
