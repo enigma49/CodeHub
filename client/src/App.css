@@ -501,8 +501,8 @@ button {
   /* Text Styles */
   .x-large {
     font-size: 3rem;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
-
   .large {
     font-size: 2rem;
   }
