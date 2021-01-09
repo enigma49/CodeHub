@@ -1,7 +1,5 @@
 {
-    "mongoUrl":"mongodb+srv://hamzashaikh:hamzashaikh@cluster0.hdf6i.mongodb.net/codehub?retryWrites=true&w=majority",
-    "jwtSecret":"AshKetchum",
-    "githubClientId":"8f5ab58465a2a037bef4",
-    "githubSecret":"3cb01fa1a763b634e88d1feb192e213206d415ae",
-    "githubToken":"9bc8120a2e8cd46ced5182bacf96675fbcf65e65"
+    "mongoUrl":"Enter Your mongo url",
+    "jwtSecret":"Enter your jwt secret",
+    "githubToken":"Enter Your github token"
 }
